@@ -1,7 +1,7 @@
 # Roots-api
 
 * RootsプロジェクトのWeb APIのソースをここで管理します
-* Web APIは「PHP5.6〜」とそのフレームワーク「Laravel5系」で動作します
+* Web APIは「PHP5.5〜」とそのフレームワーク「Laravel5系」で動作します
 
 # About
 

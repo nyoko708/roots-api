@@ -26,7 +26,24 @@
 
 ### Web APIの動作環境
 
+* 言語
+PHP5.5 〜
+
+* FrameWork
+laravel5 〜
+
+* ミドルウェア
+Apache2 〜
+
+#### 動作させるまでの手順
+
 ### Web APIの使用方法
+
+#### サンプルリクエスト
+
+#### API一覧
+
+#### me系API
 
 # License
 
